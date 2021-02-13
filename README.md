@@ -1,5 +1,7 @@
 🚧🚧🚧
 
+# so i think the problem is that your app is in loss so you need to add subscription but you dont how much the amount should be but i think that the amount should be affordable for all the countries that it is available to i think 5$ per month 
+
 **Quirk is no longer being maintained.**
 
 Quirk started as a little thing I made for myself as I started doing CBT. As I got better, I needed Quirk less. But at the same time, lots of other people had discovered Quirk and started picking it up. That meant more bug fixes, more features, and just more work to be done. I really couldn't keep it up well, especially with my main focus at the time (my day job). 
